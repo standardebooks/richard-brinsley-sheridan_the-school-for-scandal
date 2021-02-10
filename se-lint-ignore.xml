@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="colophon.xhtml">
-		<ignore>
-			<code>m-037</code>
-			<reason>No Gutenberg source.</reason>
-		</ignore>
-	</file>
 	<file path="foreword.xhtml">
 		<ignore>
 			<code>s-033</code>
 			<reason>Foreword by an American Editor.</reason>
-		</ignore>
-	</file>
-	<file path="imprint.xhtml">
-		<ignore>
-			<code>m-026</code>
-			<reason>No Gutenberg source.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
