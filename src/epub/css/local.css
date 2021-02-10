@@ -127,3 +127,7 @@ p span.i3{
 [epub|type~="z3998:song"] header{
 	font-variant: all-small-caps;
 }
+
+em i[epub|type~="z3998:stage-direction"]{
+	font-style: normal;
+}
