@@ -6,4 +6,10 @@
 			<reason>Foreword by an American Editor.</reason>
 		</ignore>
 	</file>
+	<file path="prologue.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>Stage direction is an interjection.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
