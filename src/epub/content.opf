@@ -59,12 +59,12 @@
 		<dc:creator id="author">Richard Brinsley Sheridan</dc:creator>
 		<meta property="file-as" refines="#author">Sheridan, Richard Brinsley</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79089813</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79089813</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Joshua Reynolds</dc:contributor>
 		<meta property="file-as" refines="#artist">Reynolds, Joshua</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joshua_Reynolds</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84168483</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84168483</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="editor">Brander Matthews</dc:contributor>
 		<meta property="file-as" refines="#editor">Matthews, Brander</meta>
