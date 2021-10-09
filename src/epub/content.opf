@@ -44,6 +44,8 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Despite their best efforts, the rumormongers of 18th-century London are disappointed by their targets.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;One of the most celebrated English comedies of manners, &lt;a href="https://standardebooks.org/ebooks/richard-brinsley-sheridan"&gt;Sheridan’s&lt;/a&gt; &lt;i&gt;The School for Scandal&lt;/i&gt; was first produced in 1777 at London’s Drury Lane Theatre. It opened just a year after Sheridan succeeded the famous actor/manager David Garrick as manager and, after Garrick had read the play, he even volunteered to write the prologue—lending his much desired endorsement to the production. &lt;i&gt;The School for Scandal&lt;/i&gt; was extremely well received by its audiences as well as by many contemporary critics.&lt;/p&gt;
