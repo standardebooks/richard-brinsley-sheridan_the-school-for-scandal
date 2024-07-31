@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/sheridanscomedie00sherrich</dc:source>
 		<meta property="se:production-notes">Transcription is from OCR as the corresponding Gutenberg link (https://www.gutenberg.org/ebooks/1929) was from an unproduced version of the play.</meta>
-		<meta property="se:word-count">35443</meta>
+		<meta property="se:word-count">35442</meta>
 		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_School_for_Scandal</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-brinsley-sheridan_the-school-for-scandal</meta>
