@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="foreword.xhtml">
+	<file path="introduction.xhtml">
 		<ignore>
 			<code>s-033</code>
 			<reason>Foreword by an American Editor.</reason>
