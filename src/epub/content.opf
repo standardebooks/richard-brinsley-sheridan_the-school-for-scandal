@@ -71,8 +71,8 @@
 		<dc:contributor id="editor">Brander Matthews</dc:contributor>
 		<meta property="file-as" refines="#editor">Matthews, Brander</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://astart.ca/</meta>
