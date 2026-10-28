@@ -73,6 +73,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="editor">Brander Matthews</dc:contributor>
 		<meta property="file-as" refines="#editor">Matthews, Brander</meta>
+		<link href="https://en.wikipedia.org/wiki/Brander_Matthews" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
